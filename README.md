@@ -1,10 +1,12 @@
 # UE12.2_evaluation_cpp
 
-### Xindong Xu
+## Xindong Xu
 
 L'évaluation de cours de cpp;
 
 L’objectit de ce sujet est d’étudier la résolution numérique de l’équation de la chaleur instationnaire;
+
+## Description des fichiers:
 
 Matrix_Fonction.cpp, est un fichier contient la définition et des réalisations de la classe Matrix, des méthodes de cette classe et des fonctions utilisées dans les questions suivantes;
 
