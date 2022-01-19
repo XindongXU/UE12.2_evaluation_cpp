@@ -31,4 +31,3 @@ draft.cpp est un fichier de brouillon;
 On affiche quelques résultats des courbes dans res_explicit.jpeg, res_implicit.jpeg et res_bonus1.jpeg;
 
 ### MERCI
-$\varphi$
